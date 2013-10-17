@@ -1,5 +1,5 @@
 Name:		Jimmy
-Version:	1.32
+Version:	1.33
 Release:	1%{?dist}
 Summary:	Once upon a time there was Jimmy
 
@@ -34,4 +34,8 @@ make install DESTDIR=$RPM_BUILD_ROOT
 
 
 %changelog
+* Thu Oct 17 2013 Sri Sankaran <sri@redhat.com> 1.33-1
+- new package built with tito
+Here we go!
+
 
