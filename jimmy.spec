@@ -6,10 +6,10 @@ Summary:	Once upon a time there was Jimmy
 Group:		We no like gruppa
 License:	to kill
 URL:		http://blah.url
-Source0:	
+Source0:	%{name}-%{version}.tar.gz
 
-BuildRequires:	
-Requires:	
+BuildRequires:	javac
+Requires:	jar
 
 %description
 
