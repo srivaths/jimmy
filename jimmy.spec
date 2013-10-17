@@ -5,7 +5,7 @@ Summary:	Once upon a time there was Jimmy
 
 Group:		We no like gruppa
 License:	to kill
-URL:		
+URL:		http://blah.url
 Source0:	
 
 BuildRequires:	
